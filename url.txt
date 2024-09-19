@@ -1,0 +1,3 @@
+URL Datasete : https://www.kaggle.com/datasets/rabieelkharoua/predict-customer-purchase-behavior-dataset/data
+
+URL Deployment : https://huggingface.co/spaces/fazfahmi/Purchase_Prediction
